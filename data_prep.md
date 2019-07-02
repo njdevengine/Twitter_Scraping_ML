@@ -1,6 +1,6 @@
 
 # Scraping Twitter for Corporate Espionage
-## (Using Webscraping, Facial Recognition and ML)
+## Using Webscraping, Facial Recognition and ML to gather Open Source Intelligence on Competing Corporations
 
 ![headline](headline.png "Twitter Project")
 
